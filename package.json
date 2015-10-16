@@ -1,0 +1,9 @@
+{
+	"name": "wenzi",
+	"version": "0.0.1",
+	"main": "index.js",
+	"dependencies": {
+		"nedb": "^1.2.1",
+		"request": "^2.65.0"
+	}
+}
